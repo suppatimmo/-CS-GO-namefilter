@@ -1,8 +1,6 @@
 #pragma semicolon 1
 #include <sourcemod>
 #include <sdktools>
-#include <cstrike>
-#include <emitsoundany>
 
 #pragma newdecls required
 
